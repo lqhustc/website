@@ -1,3 +1,7 @@
 [submodule "qinghaoliang/themes/beautifulhugo"]
 	path = qinghaoliang/themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "qinghaoliang/public"]
+	path = qinghaoliang/public
+	url = https://github.com/lqhustc/qinghaoliang.github.io.git
+	branch = main
